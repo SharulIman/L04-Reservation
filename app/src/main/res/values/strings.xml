@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="heading">RESERVATIONS</string>
+    <string name="timetext">Select Timing</string>
+    <string name="datetext">Select Date</string>
+    <string name="detailtext">Enter Details</string>
+    <string name="emailtext">Email</string>
+    <string name="phonetext">Phone Number</string>
+    <string name="nametext">First Name</string>
+    <string name="nametext2">Last Name</string>
+    <string name="grouptext">Group Size</string>
+    <string name="smoketext">Smoking?</string>
+    <string name="notog">No</string>
+    <string name="yestog">Yes</string>
+    <string name="submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+    <string name="finaldetail">Your Reservation Details</string>
+</resources>
